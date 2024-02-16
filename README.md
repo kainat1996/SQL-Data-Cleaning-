@@ -28,7 +28,7 @@ I used SQL skills such as joins, subqueries, temp tables, CTEs, window functions
 Microsoft Excel 2016 version
 SQL Server Management Studio	19.2.56.2
 
-## [View Script]()
+## [View Script](https://github.com/kainat1996/SQL-Data-Cleaning-/blob/main/cleaningProjectSQL.sql)
 
 
 
